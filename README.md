@@ -157,6 +157,6 @@ Alternatively, you can use the **Live Server** extension in Visual Studio Code.
 
 ## Author
 
-**Afreena Ayoob**
+**Afreena Ayoob kt**
 
 Developed as an internship selection task.
